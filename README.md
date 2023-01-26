@@ -17,7 +17,7 @@ Creating a web application in accordance with the project criteria and closely c
 #### Acceptance criteria:
 [Project acceptance criteria](https://github.com/dawidmarek95x/questify-app/blob/main/criteria.md)
 
-## Członkowie zespołu:
+## Team members:
 
 **Frontend Developers:**
 - Anna Ojdana
